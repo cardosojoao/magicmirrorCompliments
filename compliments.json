@@ -1,5 +1,4 @@
-config: {
-  "compliments": {
+{
     "morning": [
       "You have a radiant energy to start the day!",
       "Rise and shine—you're a beacon of positivity!",
@@ -22,6 +21,5 @@ config: {
     ],
     rain: [
 			"Don't forget your umbrella"
-		]
-  }
+	]
 }
