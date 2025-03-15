@@ -1,25 +1,24 @@
 config: {
-	compliments: {
-		anytime: [
-			"Hey there sexy!"
-		],
-		morning: [
-			"Good morning, handsome!",
-			"Enjoy your day!",
-			"How was your sleep?"
-		],
-		afternoon: [
-			"Hello, beauty!",
-			"You look sexy!",
-			"Looking good today!"
-		],
-		evening: [
-			"Wow, you look hot!",
-			"You look nice!",
-			"Hi, sexy!"
-		],
-		"....-01-01": [
-			"Happy new year!"
-		]
-	}
+  "compliments": {
+    "morning": [
+      "You have a radiant energy to start the day!",
+      "Rise and shine—you're a beacon of positivity!",
+      "Your smile is brighter than the morning sun."
+    ],
+    "afternoon": [
+      "You’re doing great, keep up the fantastic work!",
+      "Your presence is like a ray of sunshine.",
+      "The way you approach challenges inspires those around you."
+    ],
+    "evening": [
+      "You’ve accomplished so much today—well done!",
+      "You bring warmth even to the coziest night.",
+      "Your kindness is the perfect way to end the day."
+    ],
+    "general": [
+      "You’re a truly remarkable individual.",
+      "Your creativity knows no bounds.",
+      "You make the world a better place just by being in it."
+    ]
+  }
 }
