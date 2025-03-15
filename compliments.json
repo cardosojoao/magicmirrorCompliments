@@ -19,6 +19,9 @@ config: {
       "You’re a truly remarkable individual.",
       "Your creativity knows no bounds.",
       "You make the world a better place just by being in it."
-    ]
+    ],
+    rain: [
+			"Don't forget your umbrella"
+		]
   }
 }
